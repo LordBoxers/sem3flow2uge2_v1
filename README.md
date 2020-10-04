@@ -8,6 +8,7 @@ Thursday is not yet completed.
 
 
 ## Additional Notes:
+Some issues with pushing the project to github have resulted in npm files lacking, after downloading the project please do 'npm install'
 Tuesdays minor assignments have been written but not revisited after wednsdays assignment.
 learned a lot from wednsdays assignments.
 thursdays assignment is still in works
